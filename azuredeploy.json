@@ -11,7 +11,7 @@
     },
     "vnetAddressPrefix": {
       "type": "string",
-      "defaultValue": "100.65.0.0/24","100.65.1.0/24
+      "defaultValue": "100.65.0.0/24","100.65.1.0/24"
       "metadata": {
         "description": "Address prefix"
       }
